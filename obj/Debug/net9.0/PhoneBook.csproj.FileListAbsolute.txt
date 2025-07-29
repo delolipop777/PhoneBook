@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\PhoneBook\bin\Debug\net9.0\PhoneBook.exe
+C:\dev\MohirDev\HomeWork\PhoneBook\bin\Debug\net9.0\PhoneBook.deps.json
+C:\dev\MohirDev\HomeWork\PhoneBook\bin\Debug\net9.0\PhoneBook.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\PhoneBook\bin\Debug\net9.0\PhoneBook.dll
+C:\dev\MohirDev\HomeWork\PhoneBook\bin\Debug\net9.0\PhoneBook.pdb
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.dll
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\refint\PhoneBook.dll
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.pdb
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\PhoneBook.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\PhoneBook\obj\Debug\net9.0\ref\PhoneBook.dll
